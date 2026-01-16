@@ -1,4 +1,4 @@
-# HashToCrack-Charts
+# HashToCrack-Report
 
 A Python-based CLI tool to transform HashToCrack analytics text reports into visual dashboards and comprehensive markdown reports.
 
@@ -21,7 +21,7 @@ This tool is designed to be used with [uv](https://github.com/astral-sh/uv).
 ### Global Install (Recommended)
 You can install the tool directly from GitHub:
 ```bash
-uv tool install git+https://github.com/fisher0x/HashToCrack-Charts
+uv tool install git+https://github.com/fisher0x/HashToCrack-Report
 ```
 
 ### Local Development Install
